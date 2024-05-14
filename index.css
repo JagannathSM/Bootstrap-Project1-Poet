@@ -19,6 +19,7 @@ fa{
     color: black;
     text-align: center;
     height: 1.5em;
+    
     &:before {
       content: '';
       background: linear-gradient(to right, transparent, #000000, transparent);
